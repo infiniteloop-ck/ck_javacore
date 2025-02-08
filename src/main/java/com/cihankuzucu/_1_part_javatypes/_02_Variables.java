@@ -13,6 +13,7 @@ public class _02_Variables {
 */
         // veri isimlendirmeleri
         // 1) isim, veya sıfat, zamir kullanmamız lazım.
+        // Anlamlı ve açıklayıcı isimler seçilir.
         int schoolNumber = 25;
         System.out.println(schoolNumber);
         schoolNumber=44;
@@ -28,8 +29,7 @@ public class _02_Variables {
         int schoolNumber123=105;
         System.out.println(schoolNumber123);
 
-        // yazamazsınız
-
+        // yazılmaz
         // int schoolNumber=11 // aynı isimde yazılmaz.
 
         // 4) sayıl ile başlamaz.
@@ -38,6 +38,11 @@ public class _02_Variables {
         // 5) _ veya $ dışında özel simgelerle başlamaz.
         // int ~schoolNumber=11 // özel simgeyle başlanmaz.
         // int ``schoolNumber=11 // özel simgeyle başlanmaz.
+        // int school-number=99; // kebap case yazılmaz.
+
+        //yazmayalım
+        float TotalSalary =14.5355f;
+        System.out.println(TotalSalary);
 
     }
 }
