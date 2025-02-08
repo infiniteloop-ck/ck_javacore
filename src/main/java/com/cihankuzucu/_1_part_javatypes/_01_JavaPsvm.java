@@ -5,7 +5,7 @@ package com.cihankuzucu._1_part_javatypes;
 /*Multiple
 Comment*/
 
-public class _01_JavaTypes {
+public class _01_JavaPsvm {
     //    psvm + tab
     public static void main(String[] args) {
         // Çıktı
