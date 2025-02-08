@@ -7,7 +7,7 @@ public class _02_Variables {
 
 /*
             veri isimlendirmeleri
-
+            1) isim, veya sıfat, zamir kullanmamız lazım.
             2) _ veya $ ile başlanabilir.
             3) sayı ile bitebilir.
             4) sayıl ile başlamaz.
