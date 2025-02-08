@@ -10,3 +10,8 @@
 - Data types  nedir ?
 - primitive types  nedir ?
 - Wrapper types nedir ?
+
+camelCase nedir?
+PascalCase nedir?
+kebab-case nedir?
+
