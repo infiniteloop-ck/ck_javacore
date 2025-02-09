@@ -39,10 +39,15 @@ public class _02_Variables {
         // int ~schoolNumber=11 // özel simgeyle başlanmaz.
         // int ``schoolNumber=11 // özel simgeyle başlanmaz.
         // int school-number=99; // kebap case yazılmaz.
+        // int school number=66; // değişkenlerde boşkuk olmaz
 
         //yazmayalım
         float TotalSalary =14.5355f;
         System.out.println(TotalSalary);
 
+
+        // SABIT
+        final int MAX_STUDENTS=100;
+        System.out.println(MAX_STUDENTS);
     }
 }

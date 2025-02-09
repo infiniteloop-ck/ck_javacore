@@ -38,16 +38,23 @@ Java case sensitive bir dildir. (Küçük ve büyük harfe duyarlıdır.)
 ```
 ---
 
-## Java Core
+## Maven nedir?
 ```sh
 
 ```
 ---
 
-## Java Core
-```sh
+### **1. Maven Nedir?
+Maven, Java projelerini oluşturmak, yönetmek ve otomatikleştirmek için kullanılan bir **build automation** (inşa otomasyonu) aracıdır. Apache tarafından geliştirilmiştir ve özellikle Java projelerinde bağımlılık yönetimi, derleme, test etme ve dağıtım süreçlerini kolaylaştırır. Maven, XML tabanlı bir yapılandırma dosyası olan `pom.xml` kullanarak projenin yapılandırmasını ve bağımlılıklarını yönetir.
 
-```
+**Maven’in Sağladıkları:**
+- **Bağımlılık Yönetimi:** Projeye eklenmesi gereken kütüphaneleri otomatik olarak indirir.
+- **Proje Yapılandırması:** Projeyi standart bir yapıda düzenler.
+- **Otomatik Derleme:** Projeyi derler (`mvn compile`).
+- **Test Çalıştırma:** JUnit ve TestNG gibi test araçlarıyla testleri çalıştırır (`mvn test`).
+- **Paketleme:** Projeyi `jar` veya `war` formatında paketler (`mvn package`).
+- **Dağıtım Yönetimi:** Uygulamayı uzak sunuculara veya depolara gönderir (`mvn deploy`).
+
 ---
 
 ## Java Core
