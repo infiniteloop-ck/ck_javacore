@@ -1,4 +1,4 @@
-package com.cihankuzucu._1_part_javatypes;
+package com.cihankuzucu._1_week;
 
 //Single Comment
 
